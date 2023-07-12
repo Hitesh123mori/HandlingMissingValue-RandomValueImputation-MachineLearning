@@ -1,0 +1,27 @@
+Name,Id,City,House Number,Firesafty,Sale Price
+A,12,Mumbai,D12,Good,1cr
+B,23,Mumbai,A34,Best,
+C,45,Nasik,,Good,2cr
+D,67,Ahmedabad,,Best,
+E,89,Mumbai,C90,,4cr
+F,9,,A34,Best,1cr
+G,98,Nasik,,,
+H,87,Ahmedabad,C09,Best,3cr
+I,76,Delhi,A45,,1cr
+J,65,,F34,Best,5cr
+K,54,Delhi,C67,Not Good,1cr
+L,43,,,,2cr
+M,111,Mumbai,D45,Not Good,1cr
+N,222,Mumbai,D67,Medium,1cr
+O,321,,,,
+P,345,Ahmedabad,D12,Medium,3cr
+Q,543,Nasik,G45,,
+R,567,,A45,Best,9cr
+S,765,Mumbai,E78,Not Good,8cr
+T,789,Nasik,D12,Best,
+U,987,Ahmedabad,D12,,
+V,98,Mumbai,,Good,12cr
+W,898,Mumbai,D12,Good,3cr
+X,456,,,,
+Y,853,,D12,,
+Z,981,Delhi,A87,,4cr
